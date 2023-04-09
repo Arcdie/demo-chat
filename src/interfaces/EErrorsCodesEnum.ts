@@ -1,0 +1,5 @@
+export enum EErrorsCodesEnum {
+  NO_AUTH_TOKEN = 'NO_AUTH_TOKEN',
+  INVALID_AUTH_TOKEN = 'INVALID_AUTH_TOKEN',
+  NO_FILE = 'NO_FILE',
+}
